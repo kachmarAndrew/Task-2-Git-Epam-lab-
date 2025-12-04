@@ -10,3 +10,5 @@ seventh line,
 eighth line,
 ninth line, diferent message to show: 
 tenth line, conflict situation in git
+ninth line, edit this line ->  
+tenth line, for show conflict situation
