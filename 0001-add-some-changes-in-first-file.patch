@@ -1,0 +1,24 @@
+From 7c539c5b82c35a74f1d87a89c9532d298f564bb5 Mon Sep 17 00:00:00 2001
+From: Andrii Kachmar <Andrii.Kachmar.KN.2022@lpnu.ua>
+Date: Thu, 4 Dec 2025 18:59:13 +0200
+Subject: [PATCH] add some changes in first file
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index a9b4a83..3c295fe 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -6,5 +6,5 @@
+ 6 - sixth
+ 7 - seventh
+ 8 - eighth
+-9 - ninth
+-10 - tenth
++9 - ninth edit this line of file
++10 - tenth and this line
+-- 
+2.42.0.windows.2
+
